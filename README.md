@@ -9,10 +9,10 @@ awesome resources for learning opengl
 
 ## Tutorial 
 
-| Link   | Platform | OpenGL Version| Source Code available  |    Star   | My comment| 
+| Link   | Platform | OpenGL Version| Source Code  |    Star   | My comment| 
 | ------------- | ------------- |------------------|  ---------| --------|------------| 
-| https://learnopengl.com/  | Windows  |OpenGL 3.3     |    Yes      |:star: :star: :star: :star: :star: |Best OpenGL Tutorial  |
-| http://www.opengl-tutorial.org/ | Windows |OpenGL 3.3| Yes    | :star: :star: :star:           |              | 
+| https://learnopengl.com/  | Windows  |OpenGL 3.3     |    https://github.com/opengl-tutorials/ogl      |:star: :star: :star: :star: :star: |Best OpenGL Tutorial  |
+| http://www.opengl-tutorial.org/ | Windows |OpenGL 3.3|    https://github.com/JoeyDeVries/LearnOpenGL | :star: :star: :star:           |              | 
 
 ## Books 
 
