@@ -1,5 +1,5 @@
-# awesome-opengl-resources
-awesome resources for learning opengl 
+# awesome-graphics-resources
+awesome resources for learning graphics
 
 ## Official 
 |  Name   | Link  | 
